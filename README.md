@@ -4,7 +4,7 @@ This project contains a suite https://academybugs.com/. The tests are written in
 
 ## Project Structure
 
-- `tests/tests.spec.js`: Contains the API tests for various endpoints.
+- `tests/found.bugs.spec.js`: Contains UI test for page
 - `README.md`: Project documentation.
 
 ## Installation
